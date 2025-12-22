@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Gunnar a Sophomore CS Student based in Milwaukee and originally from Minnesota
+
+Currently learning the fundamentals of softeware engineering
+
+Excited to find what interests me most in the space and how I can benefit others via projects and collaborations
+
+Looking for internship opportunities in the development field
 <!--
 **gseversen/gseversen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
