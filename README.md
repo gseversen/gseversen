@@ -2,7 +2,7 @@
 
 I'm Gunnar a Sophomore CS Student based in Milwaukee and originally from Minnesota
 
-Currently learning the fundamentals of softeware engineering
+Currently learning the fundamentals of software engineering
 
 Excited to find what interests me most in the space and how I can benefit others via projects and collaborations
 
